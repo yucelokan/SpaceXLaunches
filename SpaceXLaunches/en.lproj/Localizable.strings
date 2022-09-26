@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  SpaceXLaunches
+
+  Created by okan.yucel on 22.06.2022.
+  
+*/
+
+"error" = "Error";
+"okay" = "Okay";
+"launches" = "Launches";
+"launched_successfully" = "Launched successfully";
+"not_launched" = "Not launched";

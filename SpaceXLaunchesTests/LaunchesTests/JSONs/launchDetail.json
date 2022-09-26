@@ -1,0 +1,45 @@
+{
+  "launch" : {
+    "launch_date_local" : "2020-10-18T08:25:00-04:00",
+    "launch_site" : {
+      "__typename" : "LaunchSite",
+      "site_name_long" : "Kennedy Space Center Historic Launch Complex 39A"
+    },
+    "rocket" : {
+      "rocket_name" : "Falcon 9",
+      "__typename" : "LaunchRocket",
+      "rocket_type" : "FT"
+    },
+    "ships" : [
+      {
+        "__typename" : "Ship",
+        "image" : "https:\/\/i.imgur.com\/MtEgYbY.jpg",
+        "name" : "GO Ms Tree"
+      },
+      {
+        "name" : "GO Ms Chief",
+        "__typename" : "Ship",
+        "image" : "https:\/\/imgur.com\/NHsx95l.jpg"
+      },
+      {
+        "__typename" : "Ship",
+        "image" : "https:\/\/i.imgur.com\/28dCx6G.jpg",
+        "name" : "Of Course I Still Love You"
+      },
+      {
+        "name" : "GO Quest",
+        "image" : "https:\/\/i.imgur.com\/ABXtHKa.jpg",
+        "__typename" : "Ship"
+      }
+    ],
+    "__typename" : "Launch",
+    "launch_success" : true,
+    "links" : {
+      "__typename" : "LaunchLinks",
+      "mission_patch" : "https:\/\/images2.imgbox.com\/d2\/3b\/bQaWiil0_o.png"
+    },
+    "mission_name" : "Starlink-13 (v1.0)",
+    "id" : "104",
+    "details" : "This mission will launch the thirteenth batch of operational Starlink satellites, which are expected to be version 1.0, from LC-39A, Kennedy Space Center. It is the fourteenth Starlink launch overall. The satellites will be delivered to low Earth orbit and will spend a few weeks maneuvering to their operational altitude of 550 km. The booster for this mission is expected to land on an ASDS."
+  }
+}

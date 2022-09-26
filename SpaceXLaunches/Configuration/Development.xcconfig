@@ -1,0 +1,15 @@
+//
+//  Development.xcconfig
+//  SpaceXLaunches
+//
+//  Created by okan.yucel on 20.06.2022.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+PRODUCT_DISPLAY_NAME = SpaceX Launches DEV
+PRODUCT_BUNDLE_NAME = SpaceXLaunches
+PRODUCT_BUNDLE_IDENTIFIER = com.kona.spacexlaunches.dev
+INITIAL_STORYBOARD_NAME = Splash
+API = https:\/\/api.spacex.land\/graphql
