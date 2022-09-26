@@ -1,8 +1,5 @@
 # SpaceX Launches
 
-![Launches](https://github.com/yucelokan/SpaceXLaunches/blob/main/Images/ss1.png?raw=true)
-![Launch Detail](https://github.com/yucelokan/SpaceXLaunches/blob/main/Images/ss2.png?raw=true)
-
 First in first. You need to build all packages before building the project.
 
 Packages:
